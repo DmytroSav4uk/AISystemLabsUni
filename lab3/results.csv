@@ -1,0 +1,121 @@
+﻿Тип тесту,Модель,Речення,Правильна мітка,Передбачення,Оцінка,Accuracy,"Час, с","Параметри, млн",ID моделі,Поріг впевненості,Прогноз прийнято,"Покриття, %"
+sentiment-analysis,multilingual_sentiment_small,"Борщ вийшов дуже смачний, а подача виглядає апетитно.",positive,positive,0.9976269602775574,0.9,0.038,140.64,,,,
+sentiment-analysis,multilingual_sentiment_small,"Рецепт простий і зрозумілий, а страва виходить ароматною.",positive,positive,0.9910224676132202,0.9,0.038,140.64,,,,
+sentiment-analysis,multilingual_sentiment_small,"Тісто вдалося ніжним, а начинка соковита і пряна.",positive,negative,0.4721391201019287,0.9,0.038,140.64,,,,
+sentiment-analysis,multilingual_sentiment_small,"Ресторан має чудове меню, а офіціанти привітні й уважні.",positive,positive,0.9917736649513245,0.9,0.038,140.64,,,,
+sentiment-analysis,multilingual_sentiment_small,Курка запечена до золотистої скоринки і дуже соковита.,positive,neutral,0.7848246097564697,0.9,0.038,140.64,,,,
+sentiment-analysis,multilingual_sentiment_small,"Десерт неймовірно смачний, а крем ніжний і не надто солодкий.",positive,positive,0.838441014289856,0.9,0.038,140.64,,,,
+sentiment-analysis,multilingual_sentiment_small,"Кухар швидко приготував замовлення, і все було свіжим.",positive,positive,0.9431958198547363,0.9,0.038,140.64,,,,
+sentiment-analysis,multilingual_sentiment_small,"Суп вийшов наваристим, а спеції підібрані ідеально.",positive,positive,0.965753436088562,0.9,0.038,140.64,,,,
+sentiment-analysis,multilingual_sentiment_small,"Піца має хрусткий корж і багато начинки, я в захваті.",positive,positive,0.9927155375480652,0.9,0.038,140.64,,,,
+sentiment-analysis,multilingual_sentiment_small,Я задоволений вечерею та залюбки порекомендую цей заклад друзям.,positive,positive,0.9993805885314941,0.9,0.038,140.64,,,,
+sentiment-analysis,multilingual_sentiment_small,"Стейк був пересмажений і жорсткий, їсти його було неможливо.",negative,negative,0.9527136087417603,0.9,0.038,140.64,,,,
+sentiment-analysis,multilingual_sentiment_small,"Суп вийшов прісним і холодним, довелося відправити його назад.",negative,negative,0.6556417346000671,0.9,0.038,140.64,,,,
+sentiment-analysis,multilingual_sentiment_small,"Тісто не підійшло, тому пиріг вийшов сирим і важким.",negative,negative,0.8200757503509521,0.9,0.038,140.64,,,,
+sentiment-analysis,multilingual_sentiment_small,"Офіціант довго ігнорував нас, а замовлення принесли з запізненням.",negative,negative,0.9953148365020752,0.9,0.038,140.64,,,,
+sentiment-analysis,multilingual_sentiment_small,"Салат був несвіжий, а після нього виникли проблеми зі шлунком.",negative,negative,0.953184962272644,0.9,0.038,140.64,,,,
+sentiment-analysis,multilingual_sentiment_small,"Десерт надто солодкий і приторний, доїсти його не вдалося.",negative,negative,0.9803979992866516,0.9,0.038,140.64,,,,
+sentiment-analysis,multilingual_sentiment_small,"Борщ надмірно солоний, а м'ясо в ньому майже відсутнє.",negative,negative,0.5897282958030701,0.9,0.038,140.64,,,,
+sentiment-analysis,multilingual_sentiment_small,"Порція замала, а ціна завищена, цей ресторан не виправдав очікувань.",negative,negative,0.9808219075202942,0.9,0.038,140.64,,,,
+sentiment-analysis,multilingual_sentiment_small,"Рецепт незрозумілий, і страва підгоріла вже на другому кроці.",negative,negative,0.8844773769378662,0.9,0.038,140.64,,,,
+sentiment-analysis,multilingual_sentiment_small,"У закладі брудно, а їжа смакує так, ніби її розігріли вчетверте.",negative,negative,0.9874956011772156,0.9,0.038,140.64,,,,
+sentiment-analysis,tabularisai_sentiment,"Борщ вийшов дуже смачний, а подача виглядає апетитно.",positive,positive,0.8656800985336304,0.95,0.052,135.33,,,,
+sentiment-analysis,tabularisai_sentiment,"Рецепт простий і зрозумілий, а страва виходить ароматною.",positive,positive,0.7211446762084961,0.95,0.052,135.33,,,,
+sentiment-analysis,tabularisai_sentiment,"Тісто вдалося ніжним, а начинка соковита і пряна.",positive,positive,0.9015390276908875,0.95,0.052,135.33,,,,
+sentiment-analysis,tabularisai_sentiment,"Ресторан має чудове меню, а офіціанти привітні й уважні.",positive,positive,0.902858555316925,0.95,0.052,135.33,,,,
+sentiment-analysis,tabularisai_sentiment,Курка запечена до золотистої скоринки і дуже соковита.,positive,positive,0.720609724521637,0.95,0.052,135.33,,,,
+sentiment-analysis,tabularisai_sentiment,"Десерт неймовірно смачний, а крем ніжний і не надто солодкий.",positive,positive,0.7571383714675903,0.95,0.052,135.33,,,,
+sentiment-analysis,tabularisai_sentiment,"Кухар швидко приготував замовлення, і все було свіжим.",positive,positive,0.9414066076278687,0.95,0.052,135.33,,,,
+sentiment-analysis,tabularisai_sentiment,"Суп вийшов наваристим, а спеції підібрані ідеально.",positive,negative,0.331592321395874,0.95,0.052,135.33,,,,
+sentiment-analysis,tabularisai_sentiment,"Піца має хрусткий корж і багато начинки, я в захваті.",positive,positive,0.8562188148498535,0.95,0.052,135.33,,,,
+sentiment-analysis,tabularisai_sentiment,Я задоволений вечерею та залюбки порекомендую цей заклад друзям.,positive,positive,0.8971899151802063,0.95,0.052,135.33,,,,
+sentiment-analysis,tabularisai_sentiment,"Стейк був пересмажений і жорсткий, їсти його було неможливо.",negative,negative,0.6343955397605896,0.95,0.052,135.33,,,,
+sentiment-analysis,tabularisai_sentiment,"Суп вийшов прісним і холодним, довелося відправити його назад.",negative,negative,0.4643954336643219,0.95,0.052,135.33,,,,
+sentiment-analysis,tabularisai_sentiment,"Тісто не підійшло, тому пиріг вийшов сирим і важким.",negative,negative,0.5446830987930298,0.95,0.052,135.33,,,,
+sentiment-analysis,tabularisai_sentiment,"Офіціант довго ігнорував нас, а замовлення принесли з запізненням.",negative,negative,0.7988917827606201,0.95,0.052,135.33,,,,
+sentiment-analysis,tabularisai_sentiment,"Салат був несвіжий, а після нього виникли проблеми зі шлунком.",negative,negative,0.8785945177078247,0.95,0.052,135.33,,,,
+sentiment-analysis,tabularisai_sentiment,"Десерт надто солодкий і приторний, доїсти його не вдалося.",negative,negative,0.9204227924346924,0.95,0.052,135.33,,,,
+sentiment-analysis,tabularisai_sentiment,"Борщ надмірно солоний, а м'ясо в ньому майже відсутнє.",negative,negative,0.6943892240524292,0.95,0.052,135.33,,,,
+sentiment-analysis,tabularisai_sentiment,"Порція замала, а ціна завищена, цей ресторан не виправдав очікувань.",negative,negative,0.6081307530403137,0.95,0.052,135.33,,,,
+sentiment-analysis,tabularisai_sentiment,"Рецепт незрозумілий, і страва підгоріла вже на другому кроці.",negative,negative,0.6926882863044739,0.95,0.052,135.33,,,,
+sentiment-analysis,tabularisai_sentiment,"У закладі брудно, а їжа смакує так, ніби її розігріли вчетверте.",negative,negative,0.4859410524368286,0.95,0.052,135.33,,,,
+sentiment-analysis,tabularisai_sentiment,"Борщ вийшов дуже смачний, а подача виглядає апетитно.",positive,positive,0.8656800985336304,0.95,0.106,135.33,tabularisai/multilingual-sentiment-analysis,0.0,True,100.0
+sentiment-analysis,tabularisai_sentiment,"Рецепт простий і зрозумілий, а страва виходить ароматною.",positive,positive,0.7211446762084961,0.95,0.106,135.33,tabularisai/multilingual-sentiment-analysis,0.0,True,100.0
+sentiment-analysis,tabularisai_sentiment,"Тісто вдалося ніжним, а начинка соковита і пряна.",positive,positive,0.9015390276908875,0.95,0.106,135.33,tabularisai/multilingual-sentiment-analysis,0.0,True,100.0
+sentiment-analysis,tabularisai_sentiment,"Ресторан має чудове меню, а офіціанти привітні й уважні.",positive,positive,0.902858555316925,0.95,0.106,135.33,tabularisai/multilingual-sentiment-analysis,0.0,True,100.0
+sentiment-analysis,tabularisai_sentiment,Курка запечена до золотистої скоринки і дуже соковита.,positive,positive,0.720609724521637,0.95,0.106,135.33,tabularisai/multilingual-sentiment-analysis,0.0,True,100.0
+sentiment-analysis,tabularisai_sentiment,"Десерт неймовірно смачний, а крем ніжний і не надто солодкий.",positive,positive,0.7571383714675903,0.95,0.106,135.33,tabularisai/multilingual-sentiment-analysis,0.0,True,100.0
+sentiment-analysis,tabularisai_sentiment,"Кухар швидко приготував замовлення, і все було свіжим.",positive,positive,0.9414066076278687,0.95,0.106,135.33,tabularisai/multilingual-sentiment-analysis,0.0,True,100.0
+sentiment-analysis,tabularisai_sentiment,"Суп вийшов наваристим, а спеції підібрані ідеально.",positive,negative,0.331592321395874,0.95,0.106,135.33,tabularisai/multilingual-sentiment-analysis,0.0,True,100.0
+sentiment-analysis,tabularisai_sentiment,"Піца має хрусткий корж і багато начинки, я в захваті.",positive,positive,0.8562188148498535,0.95,0.106,135.33,tabularisai/multilingual-sentiment-analysis,0.0,True,100.0
+sentiment-analysis,tabularisai_sentiment,Я задоволений вечерею та залюбки порекомендую цей заклад друзям.,positive,positive,0.8971899151802063,0.95,0.106,135.33,tabularisai/multilingual-sentiment-analysis,0.0,True,100.0
+sentiment-analysis,tabularisai_sentiment,"Стейк був пересмажений і жорсткий, їсти його було неможливо.",negative,negative,0.6343955397605896,0.95,0.106,135.33,tabularisai/multilingual-sentiment-analysis,0.0,True,100.0
+sentiment-analysis,tabularisai_sentiment,"Суп вийшов прісним і холодним, довелося відправити його назад.",negative,negative,0.4643954336643219,0.95,0.106,135.33,tabularisai/multilingual-sentiment-analysis,0.0,True,100.0
+sentiment-analysis,tabularisai_sentiment,"Тісто не підійшло, тому пиріг вийшов сирим і важким.",negative,negative,0.5446830987930298,0.95,0.106,135.33,tabularisai/multilingual-sentiment-analysis,0.0,True,100.0
+sentiment-analysis,tabularisai_sentiment,"Офіціант довго ігнорував нас, а замовлення принесли з запізненням.",negative,negative,0.7988917827606201,0.95,0.106,135.33,tabularisai/multilingual-sentiment-analysis,0.0,True,100.0
+sentiment-analysis,tabularisai_sentiment,"Салат був несвіжий, а після нього виникли проблеми зі шлунком.",negative,negative,0.8785945177078247,0.95,0.106,135.33,tabularisai/multilingual-sentiment-analysis,0.0,True,100.0
+sentiment-analysis,tabularisai_sentiment,"Десерт надто солодкий і приторний, доїсти його не вдалося.",negative,negative,0.9204227924346924,0.95,0.106,135.33,tabularisai/multilingual-sentiment-analysis,0.0,True,100.0
+sentiment-analysis,tabularisai_sentiment,"Борщ надмірно солоний, а м'ясо в ньому майже відсутнє.",negative,negative,0.6943892240524292,0.95,0.106,135.33,tabularisai/multilingual-sentiment-analysis,0.0,True,100.0
+sentiment-analysis,tabularisai_sentiment,"Порція замала, а ціна завищена, цей ресторан не виправдав очікувань.",negative,negative,0.6081307530403137,0.95,0.106,135.33,tabularisai/multilingual-sentiment-analysis,0.0,True,100.0
+sentiment-analysis,tabularisai_sentiment,"Рецепт незрозумілий, і страва підгоріла вже на другому кроці.",negative,negative,0.6926882863044739,0.95,0.106,135.33,tabularisai/multilingual-sentiment-analysis,0.0,True,100.0
+sentiment-analysis,tabularisai_sentiment,"У закладі брудно, а їжа смакує так, ніби її розігріли вчетверте.",negative,negative,0.4859410524368286,0.95,0.106,135.33,tabularisai/multilingual-sentiment-analysis,0.0,True,100.0
+sentiment-analysis,tabularisai_sentiment,"Борщ вийшов дуже смачний, а подача виглядає апетитно.",positive,positive,0.8656800985336304,1.0,0.106,135.33,tabularisai/multilingual-sentiment-analysis,0.6,True,80.0
+sentiment-analysis,tabularisai_sentiment,"Рецепт простий і зрозумілий, а страва виходить ароматною.",positive,positive,0.7211446762084961,1.0,0.106,135.33,tabularisai/multilingual-sentiment-analysis,0.6,True,80.0
+sentiment-analysis,tabularisai_sentiment,"Тісто вдалося ніжним, а начинка соковита і пряна.",positive,positive,0.9015390276908875,1.0,0.106,135.33,tabularisai/multilingual-sentiment-analysis,0.6,True,80.0
+sentiment-analysis,tabularisai_sentiment,"Ресторан має чудове меню, а офіціанти привітні й уважні.",positive,positive,0.902858555316925,1.0,0.106,135.33,tabularisai/multilingual-sentiment-analysis,0.6,True,80.0
+sentiment-analysis,tabularisai_sentiment,Курка запечена до золотистої скоринки і дуже соковита.,positive,positive,0.720609724521637,1.0,0.106,135.33,tabularisai/multilingual-sentiment-analysis,0.6,True,80.0
+sentiment-analysis,tabularisai_sentiment,"Десерт неймовірно смачний, а крем ніжний і не надто солодкий.",positive,positive,0.7571383714675903,1.0,0.106,135.33,tabularisai/multilingual-sentiment-analysis,0.6,True,80.0
+sentiment-analysis,tabularisai_sentiment,"Кухар швидко приготував замовлення, і все було свіжим.",positive,positive,0.9414066076278687,1.0,0.106,135.33,tabularisai/multilingual-sentiment-analysis,0.6,True,80.0
+sentiment-analysis,tabularisai_sentiment,"Суп вийшов наваристим, а спеції підібрані ідеально.",positive,negative,0.331592321395874,1.0,0.106,135.33,tabularisai/multilingual-sentiment-analysis,0.6,False,80.0
+sentiment-analysis,tabularisai_sentiment,"Піца має хрусткий корж і багато начинки, я в захваті.",positive,positive,0.8562188148498535,1.0,0.106,135.33,tabularisai/multilingual-sentiment-analysis,0.6,True,80.0
+sentiment-analysis,tabularisai_sentiment,Я задоволений вечерею та залюбки порекомендую цей заклад друзям.,positive,positive,0.8971899151802063,1.0,0.106,135.33,tabularisai/multilingual-sentiment-analysis,0.6,True,80.0
+sentiment-analysis,tabularisai_sentiment,"Стейк був пересмажений і жорсткий, їсти його було неможливо.",negative,negative,0.6343955397605896,1.0,0.106,135.33,tabularisai/multilingual-sentiment-analysis,0.6,True,80.0
+sentiment-analysis,tabularisai_sentiment,"Суп вийшов прісним і холодним, довелося відправити його назад.",negative,negative,0.4643954336643219,1.0,0.106,135.33,tabularisai/multilingual-sentiment-analysis,0.6,False,80.0
+sentiment-analysis,tabularisai_sentiment,"Тісто не підійшло, тому пиріг вийшов сирим і важким.",negative,negative,0.5446830987930298,1.0,0.106,135.33,tabularisai/multilingual-sentiment-analysis,0.6,False,80.0
+sentiment-analysis,tabularisai_sentiment,"Офіціант довго ігнорував нас, а замовлення принесли з запізненням.",negative,negative,0.7988917827606201,1.0,0.106,135.33,tabularisai/multilingual-sentiment-analysis,0.6,True,80.0
+sentiment-analysis,tabularisai_sentiment,"Салат був несвіжий, а після нього виникли проблеми зі шлунком.",negative,negative,0.8785945177078247,1.0,0.106,135.33,tabularisai/multilingual-sentiment-analysis,0.6,True,80.0
+sentiment-analysis,tabularisai_sentiment,"Десерт надто солодкий і приторний, доїсти його не вдалося.",negative,negative,0.9204227924346924,1.0,0.106,135.33,tabularisai/multilingual-sentiment-analysis,0.6,True,80.0
+sentiment-analysis,tabularisai_sentiment,"Борщ надмірно солоний, а м'ясо в ньому майже відсутнє.",negative,negative,0.6943892240524292,1.0,0.106,135.33,tabularisai/multilingual-sentiment-analysis,0.6,True,80.0
+sentiment-analysis,tabularisai_sentiment,"Порція замала, а ціна завищена, цей ресторан не виправдав очікувань.",negative,negative,0.6081307530403137,1.0,0.106,135.33,tabularisai/multilingual-sentiment-analysis,0.6,True,80.0
+sentiment-analysis,tabularisai_sentiment,"Рецепт незрозумілий, і страва підгоріла вже на другому кроці.",negative,negative,0.6926882863044739,1.0,0.106,135.33,tabularisai/multilingual-sentiment-analysis,0.6,True,80.0
+sentiment-analysis,tabularisai_sentiment,"У закладі брудно, а їжа смакує так, ніби її розігріли вчетверте.",negative,negative,0.4859410524368286,1.0,0.106,135.33,tabularisai/multilingual-sentiment-analysis,0.6,False,80.0
+sentiment-analysis,tabularisai_sentiment,"Борщ вийшов дуже смачний, а подача виглядає апетитно.",positive,positive,0.8656800985336304,1.0,0.106,135.33,tabularisai/multilingual-sentiment-analysis,0.75,True,50.0
+sentiment-analysis,tabularisai_sentiment,"Рецепт простий і зрозумілий, а страва виходить ароматною.",positive,positive,0.7211446762084961,1.0,0.106,135.33,tabularisai/multilingual-sentiment-analysis,0.75,False,50.0
+sentiment-analysis,tabularisai_sentiment,"Тісто вдалося ніжним, а начинка соковита і пряна.",positive,positive,0.9015390276908875,1.0,0.106,135.33,tabularisai/multilingual-sentiment-analysis,0.75,True,50.0
+sentiment-analysis,tabularisai_sentiment,"Ресторан має чудове меню, а офіціанти привітні й уважні.",positive,positive,0.902858555316925,1.0,0.106,135.33,tabularisai/multilingual-sentiment-analysis,0.75,True,50.0
+sentiment-analysis,tabularisai_sentiment,Курка запечена до золотистої скоринки і дуже соковита.,positive,positive,0.720609724521637,1.0,0.106,135.33,tabularisai/multilingual-sentiment-analysis,0.75,False,50.0
+sentiment-analysis,tabularisai_sentiment,"Десерт неймовірно смачний, а крем ніжний і не надто солодкий.",positive,positive,0.7571383714675903,1.0,0.106,135.33,tabularisai/multilingual-sentiment-analysis,0.75,True,50.0
+sentiment-analysis,tabularisai_sentiment,"Кухар швидко приготував замовлення, і все було свіжим.",positive,positive,0.9414066076278687,1.0,0.106,135.33,tabularisai/multilingual-sentiment-analysis,0.75,True,50.0
+sentiment-analysis,tabularisai_sentiment,"Суп вийшов наваристим, а спеції підібрані ідеально.",positive,negative,0.331592321395874,1.0,0.106,135.33,tabularisai/multilingual-sentiment-analysis,0.75,False,50.0
+sentiment-analysis,tabularisai_sentiment,"Піца має хрусткий корж і багато начинки, я в захваті.",positive,positive,0.8562188148498535,1.0,0.106,135.33,tabularisai/multilingual-sentiment-analysis,0.75,True,50.0
+sentiment-analysis,tabularisai_sentiment,Я задоволений вечерею та залюбки порекомендую цей заклад друзям.,positive,positive,0.8971899151802063,1.0,0.106,135.33,tabularisai/multilingual-sentiment-analysis,0.75,True,50.0
+sentiment-analysis,tabularisai_sentiment,"Стейк був пересмажений і жорсткий, їсти його було неможливо.",negative,negative,0.6343955397605896,1.0,0.106,135.33,tabularisai/multilingual-sentiment-analysis,0.75,False,50.0
+sentiment-analysis,tabularisai_sentiment,"Суп вийшов прісним і холодним, довелося відправити його назад.",negative,negative,0.4643954336643219,1.0,0.106,135.33,tabularisai/multilingual-sentiment-analysis,0.75,False,50.0
+sentiment-analysis,tabularisai_sentiment,"Тісто не підійшло, тому пиріг вийшов сирим і важким.",negative,negative,0.5446830987930298,1.0,0.106,135.33,tabularisai/multilingual-sentiment-analysis,0.75,False,50.0
+sentiment-analysis,tabularisai_sentiment,"Офіціант довго ігнорував нас, а замовлення принесли з запізненням.",negative,negative,0.7988917827606201,1.0,0.106,135.33,tabularisai/multilingual-sentiment-analysis,0.75,True,50.0
+sentiment-analysis,tabularisai_sentiment,"Салат був несвіжий, а після нього виникли проблеми зі шлунком.",negative,negative,0.8785945177078247,1.0,0.106,135.33,tabularisai/multilingual-sentiment-analysis,0.75,True,50.0
+sentiment-analysis,tabularisai_sentiment,"Десерт надто солодкий і приторний, доїсти його не вдалося.",negative,negative,0.9204227924346924,1.0,0.106,135.33,tabularisai/multilingual-sentiment-analysis,0.75,True,50.0
+sentiment-analysis,tabularisai_sentiment,"Борщ надмірно солоний, а м'ясо в ньому майже відсутнє.",negative,negative,0.6943892240524292,1.0,0.106,135.33,tabularisai/multilingual-sentiment-analysis,0.75,False,50.0
+sentiment-analysis,tabularisai_sentiment,"Порція замала, а ціна завищена, цей ресторан не виправдав очікувань.",negative,negative,0.6081307530403137,1.0,0.106,135.33,tabularisai/multilingual-sentiment-analysis,0.75,False,50.0
+sentiment-analysis,tabularisai_sentiment,"Рецепт незрозумілий, і страва підгоріла вже на другому кроці.",negative,negative,0.6926882863044739,1.0,0.106,135.33,tabularisai/multilingual-sentiment-analysis,0.75,False,50.0
+sentiment-analysis,tabularisai_sentiment,"У закладі брудно, а їжа смакує так, ніби її розігріли вчетверте.",negative,negative,0.4859410524368286,1.0,0.106,135.33,tabularisai/multilingual-sentiment-analysis,0.75,False,50.0
+sentiment-analysis,tabularisai_sentiment,"Борщ вийшов дуже смачний, а подача виглядає апетитно.",positive,positive,0.8656800985336304,1.0,0.106,135.33,tabularisai/multilingual-sentiment-analysis,0.9,False,20.0
+sentiment-analysis,tabularisai_sentiment,"Рецепт простий і зрозумілий, а страва виходить ароматною.",positive,positive,0.7211446762084961,1.0,0.106,135.33,tabularisai/multilingual-sentiment-analysis,0.9,False,20.0
+sentiment-analysis,tabularisai_sentiment,"Тісто вдалося ніжним, а начинка соковита і пряна.",positive,positive,0.9015390276908875,1.0,0.106,135.33,tabularisai/multilingual-sentiment-analysis,0.9,True,20.0
+sentiment-analysis,tabularisai_sentiment,"Ресторан має чудове меню, а офіціанти привітні й уважні.",positive,positive,0.902858555316925,1.0,0.106,135.33,tabularisai/multilingual-sentiment-analysis,0.9,True,20.0
+sentiment-analysis,tabularisai_sentiment,Курка запечена до золотистої скоринки і дуже соковита.,positive,positive,0.720609724521637,1.0,0.106,135.33,tabularisai/multilingual-sentiment-analysis,0.9,False,20.0
+sentiment-analysis,tabularisai_sentiment,"Десерт неймовірно смачний, а крем ніжний і не надто солодкий.",positive,positive,0.7571383714675903,1.0,0.106,135.33,tabularisai/multilingual-sentiment-analysis,0.9,False,20.0
+sentiment-analysis,tabularisai_sentiment,"Кухар швидко приготував замовлення, і все було свіжим.",positive,positive,0.9414066076278687,1.0,0.106,135.33,tabularisai/multilingual-sentiment-analysis,0.9,True,20.0
+sentiment-analysis,tabularisai_sentiment,"Суп вийшов наваристим, а спеції підібрані ідеально.",positive,negative,0.331592321395874,1.0,0.106,135.33,tabularisai/multilingual-sentiment-analysis,0.9,False,20.0
+sentiment-analysis,tabularisai_sentiment,"Піца має хрусткий корж і багато начинки, я в захваті.",positive,positive,0.8562188148498535,1.0,0.106,135.33,tabularisai/multilingual-sentiment-analysis,0.9,False,20.0
+sentiment-analysis,tabularisai_sentiment,Я задоволений вечерею та залюбки порекомендую цей заклад друзям.,positive,positive,0.8971899151802063,1.0,0.106,135.33,tabularisai/multilingual-sentiment-analysis,0.9,False,20.0
+sentiment-analysis,tabularisai_sentiment,"Стейк був пересмажений і жорсткий, їсти його було неможливо.",negative,negative,0.6343955397605896,1.0,0.106,135.33,tabularisai/multilingual-sentiment-analysis,0.9,False,20.0
+sentiment-analysis,tabularisai_sentiment,"Суп вийшов прісним і холодним, довелося відправити його назад.",negative,negative,0.4643954336643219,1.0,0.106,135.33,tabularisai/multilingual-sentiment-analysis,0.9,False,20.0
+sentiment-analysis,tabularisai_sentiment,"Тісто не підійшло, тому пиріг вийшов сирим і важким.",negative,negative,0.5446830987930298,1.0,0.106,135.33,tabularisai/multilingual-sentiment-analysis,0.9,False,20.0
+sentiment-analysis,tabularisai_sentiment,"Офіціант довго ігнорував нас, а замовлення принесли з запізненням.",negative,negative,0.7988917827606201,1.0,0.106,135.33,tabularisai/multilingual-sentiment-analysis,0.9,False,20.0
+sentiment-analysis,tabularisai_sentiment,"Салат був несвіжий, а після нього виникли проблеми зі шлунком.",negative,negative,0.8785945177078247,1.0,0.106,135.33,tabularisai/multilingual-sentiment-analysis,0.9,False,20.0
+sentiment-analysis,tabularisai_sentiment,"Десерт надто солодкий і приторний, доїсти його не вдалося.",negative,negative,0.9204227924346924,1.0,0.106,135.33,tabularisai/multilingual-sentiment-analysis,0.9,True,20.0
+sentiment-analysis,tabularisai_sentiment,"Борщ надмірно солоний, а м'ясо в ньому майже відсутнє.",negative,negative,0.6943892240524292,1.0,0.106,135.33,tabularisai/multilingual-sentiment-analysis,0.9,False,20.0
+sentiment-analysis,tabularisai_sentiment,"Порція замала, а ціна завищена, цей ресторан не виправдав очікувань.",negative,negative,0.6081307530403137,1.0,0.106,135.33,tabularisai/multilingual-sentiment-analysis,0.9,False,20.0
+sentiment-analysis,tabularisai_sentiment,"Рецепт незрозумілий, і страва підгоріла вже на другому кроці.",negative,negative,0.6926882863044739,1.0,0.106,135.33,tabularisai/multilingual-sentiment-analysis,0.9,False,20.0
+sentiment-analysis,tabularisai_sentiment,"У закладі брудно, а їжа смакує так, ніби її розігріли вчетверте.",negative,negative,0.4859410524368286,1.0,0.106,135.33,tabularisai/multilingual-sentiment-analysis,0.9,False,20.0
